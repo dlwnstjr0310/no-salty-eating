@@ -1,7 +1,7 @@
 # QUICK-COMMERCE
 ![퀵커머스로고](https://github.com/user-attachments/assets/b1fd75bb-3038-4337-a9e8-3c8445d15e70)
 
-📃주문-결제 관련 내용만 다루고 있습니다. [프로젝트 전체 설명](https://www.notion.so/teamsparta/3-Quick-Commerce-fa5f015f37c04514a04695c1ee8833f2)
+📃주문-결제 관련 내용만 다루고 있습니다. [프로젝트 브로셔](https://www.notion.so/teamsparta/3-Quick-Commerce-fa5f015f37c04514a04695c1ee8833f2)
 
 📃배포 URL (현재 중단) : http://43.200.183.151:9090/eureka/apps
 
