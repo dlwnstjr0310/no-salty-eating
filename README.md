@@ -21,11 +21,11 @@
 ![Image](https://github.com/user-attachments/assets/9aae28c4-6cb0-4dea-a3ec-1708f000a902)
 
 ## 개발환경 
-- **Language :** Kotlin
+- **Language :** Kotlin 1.9.25
 - **Build Tool :** Gradle
 - **Framework :** Spring boot 3.4.1
-- **Database :** MariaDB, Redis
-- **Infra :** Github, Github Action, AWS ECR, AWS ECS, AWS RDS, Docker
+- **DB :** MariaDB, Redis
+- **Deploy :** AWS ECR, AWS ECS, Docker, Github Action
 - **Library :** Spring Webflux, Spring R2DBC, Coroutine, WebClient, ElasticSearch, Kibana
 
 <br>
